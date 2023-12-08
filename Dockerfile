@@ -1,1 +1,1 @@
-FROM logstash:8.6.0
+FROM logstash:8.6.0@sha256:7c5349ea5e5a1adfecf35fd03a00b8e12f997cfc1897acfe60a1fe7a615ac1ad
